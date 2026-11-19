@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>SUBR RSS Feed</title>
-
     <item>
       <guid isPermaLink="true">https://www.sus.edu/news/7954</guid>
       <title>SUBR | Admissions Counselor</title>
@@ -1045,7 +1044,7 @@ Events will conclude on Sunday, Nov. 15 with the MANRRS: Ag Game Clean-Up at 10 
     </item>
     <item>
       <guid isPermaLink="true">https://www.thefederation.org/Online/About/Barb_Currie_Scholarship_Winner_Page.aspx</guid>
-      <title></title>
+      <title/>
       <description><![CDATA[]]></description>
     </item>
     <item>
@@ -1283,7 +1282,7 @@ For additional information on the Vet on Wheels Canine and Feline Companion Anim
       <guid isPermaLink="true">https://www.susla.edu/news/susla-offers-free-shuttle-service-to-election-polls</guid>
       <title>SUSLA Offers Free Shuttle Service to Election Polls</title>
       <description><![CDATA[]]></description>
-      <media:content type="image/png" url="https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/885211390_2201887800408043_3459844560168129740_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s1080x1350&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=BAr880MRL1wQ7kNvwH8U7W0&_nc_oc=AdqL_AGZI0VkAi6K7iomLjlSLwdZv_ALsYFa--JteIGMBxv29l0lgajSHBYQ1nLFL3I&_nc_zt=14&amp;_nc_ht=scontent-dfw5-1.xx&amp;_nc_gid=LA215h8O3Zaqd6zMXQRkGQ&amp;_nc_ss=7b2a8&amp;oh=00_AQSFSBCtePVJzN-EGh8feX-wTw2c_tzTgCVU1LzeyH1coA&amp;oe=6AEFC9EA"/>
+      <media:content type="image/png" url="https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/885211390_2201887800408043_3459844560168129740_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s1080x1350&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=BAr880MRL1wQ7kNvwH8U7W0&amp;_nc_oc=AdqL_AGZI0VkAi6K7iomLjlSLwdZv_ALsYFa--JteIGMBxv29l0lgajSHBYQ1nLFL3I&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-1.xx&amp;_nc_gid=LA215h8O3Zaqd6zMXQRkGQ&amp;_nc_ss=7b2a8&amp;oh=00_AQSFSBCtePVJzN-EGh8feX-wTw2c_tzTgCVU1LzeyH1coA&amp;oe=6AEFC9EA"/>
     </item>
     <item>
       <guid isPermaLink="true">https://www.subr.edu/news/southern-university-to-host-jaguar-preview-day-on-saturday-nov-7</guid>
@@ -1707,7 +1706,7 @@ Registration is available online at <a id="OWA5d77ddea-d799-9842-088c-cff92a4116
     </item>
     <item>
       <guid isPermaLink="true">https://www.sus.edu/assets/suno/SULC--SUNO-33.pdf</guid>
-      <title></title>
+      <title/>
       <description><![CDATA[]]></description>
     </item>
     <item>
@@ -2090,7 +2089,7 @@ Registration is available online at <a id="OWA5d77ddea-d799-9842-088c-cff92a4116
     </item>
     <item>
       <guid isPermaLink="true">https://www.sus.edu/assets/suno/Press-Release--Mens-Basketball.pdf</guid>
-      <title></title>
+      <title/>
       <description><![CDATA[]]></description>
     </item>
     <item>
@@ -2230,7 +2229,7 @@ Registration is available online at <a id="OWA5d77ddea-d799-9842-088c-cff92a4116
     </item>
     <item>
       <guid isPermaLink="true">https://www.sus.edu/assets/suno/PressRelease-SUNOSSW.pdf</guid>
-      <title></title>
+      <title/>
       <description><![CDATA[]]></description>
     </item>
     <item>
@@ -2334,7 +2333,7 @@ Registration is available online at <a id="OWA5d77ddea-d799-9842-088c-cff92a4116
     </item>
     <item>
       <guid isPermaLink="true">https://www.sus.edu/assets/suno/PressRelease-SUNOMuseumstudies.pdf</guid>
-      <title></title>
+      <title/>
       <description><![CDATA[]]></description>
     </item>
     <item>
@@ -3957,7 +3956,7 @@ The combination of worship, music and Walker’s message created an atmosphere t
     </item>
     <item>
       <guid isPermaLink="true">https://www.juriseducation.com/program-spotlight/20-best-law-schools-making-the-biggest-social-justice-impact</guid>
-      <title></title>
+      <title/>
       <description><![CDATA[]]></description>
     </item>
     <item>
